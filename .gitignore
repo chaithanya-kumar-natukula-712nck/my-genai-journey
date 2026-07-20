@@ -156,7 +156,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-genai/ #it is the name of venv
+genai/ 
+#genai is the name of venv
 
 # Spyder project settings
 .spyderproject
